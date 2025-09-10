@@ -159,7 +159,7 @@ h4.trending-tag, h5.trending-tag, h6.trending-tag {
 After completing all TODOs, your SocialBook app should look like this:
 
 ### 📱 Complete App Overview
-![Complete SocialBook App](ref/1.png)
+![Complete SocialBook App][def]
 
 Your fully styled social media app should have:
 
@@ -262,3 +262,5 @@ CSS specificity determines which styles apply when multiple rules target the sam
 * **CSS Zen Garden**: https://csszengarden.com/
 
 Happy styling your social media app! 📱✨
+
+[def]: ref/1.png
